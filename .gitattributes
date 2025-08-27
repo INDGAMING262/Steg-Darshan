@@ -1,0 +1,3 @@
+# Always use LF (Linux line endings) for scripts
+*.sh text eol=lf
+*.py text eol=lf
